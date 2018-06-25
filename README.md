@@ -6,8 +6,7 @@ the same video to share pieces of the video to reduce load on the server.
 
 ## Running:
 Running the server script requires Node.js 8.0 or higher.  The required dependencies are listed
-in package.json.  You can install all the dependencies with npm.  Navigate to the src directory
-and type 'npm install .' and it will install all required dependencies into the local directory.
+in package.json.  You can install all the dependencies with 'npm install .'
 
 To run the server, run 'nodejs server.js'
 The client script has to be bundled into a single file.  There is a pre-bundled file in src/puclic.
